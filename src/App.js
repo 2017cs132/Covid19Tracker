@@ -7,7 +7,7 @@ import CountryPicker from "./components/CountryPicker/CountryPicker";
 import { fetchData } from "./api";
 import styles from "./App.module.css";
 import Footer from "./components/Footer/Footer";
-
+//abhi change hoga
 function App() {
   const [confirmed, setConfirmed] = useState(0);
   const [deaths, setDeaths] = useState(0);
